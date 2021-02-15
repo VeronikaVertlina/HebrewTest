@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "550317494277",
+    "firebase_url": "https://hebrewtest-57986.firebaseio.com",
+    "project_id": "hebrewtest-57986",
+    "storage_bucket": "hebrewtest-57986.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550317494277:android:da9ba4e2a616f5fb4fcc6c",
+        "android_client_info": {
+          "package_name": "com.example.hebrewtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550317494277-1igu3fep1sjq4a7nll5uosimuhha1fim.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hebrewtest",
+            "certificate_hash": "1862cc377629bc8eb781acb9f640ad564511ba2f"
+          }
+        },
+        {
+          "client_id": "550317494277-6781gt6jbdbe4t9ec6onsng8qk4pui1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZSGnZhqeqtysx8ZSFaMUVNYK7F5vI1GQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550317494277-6781gt6jbdbe4t9ec6onsng8qk4pui1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
